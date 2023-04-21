@@ -12,6 +12,7 @@ Hi there, I am Fulong Li. Welcome to my personal website. I currently build this
 
 Research Interests
 ======
+
 • Control and design of DC/DC power converters (buck, boost, buck-boost, DAB, etc.) for renewable energy sources, such as battery storage and PV, etc., and for wireless power transfer, such as wireless charging stations and electric vehicles. 
 
 • Coordinated control of power converters, solid-state transformers for DC microgrids applications, stability analysis of DC microgrids and microgrid Energy Management System (EMS) design.
@@ -19,6 +20,7 @@ Research Interests
 
 Skills
 ======
+
 Professional Skills 
 ---
 •	Modelling: SPICE, MATLAB, SIMULINK ANSYS, COMSOL, PLECS, PSIM, SaberRD, SIMetrix etc.
