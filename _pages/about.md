@@ -23,7 +23,7 @@ Skills
 
 Professional Skills 
 ---
-•	Modelling: SPICE, MATLAB, SIMULINK ANSYS, COMSOL, PLECS, PSIM, SaberRD, SIMetrix etc.
+•	Modelling: SPICE, MATLAB, SIMULINK, ANSYS, COMSOL, PLECS, PSIM, SaberRD, SIMetrix, etc.
 
 •	Optimization: GAMS, Yalmip.
 
