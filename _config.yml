@@ -11,7 +11,7 @@ title                    : "Fulong"
 title_separator          : "-"
 name                     : &name "Fulong"
 description              : &description "personal description"
-url                      : https://fulongli.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://FulongLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FulongLi/FulongLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Fulong Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Power for the future"
   location         : "Cardiff, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/fulong-li-6bb443127/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9972-7258"
   pinterest        :
   soundcloud       :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Experience:
     output: true
     permalink: /:collection/:path/
   publications:
