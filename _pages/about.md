@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, Welcome to my personal website. I currently build this site for sharing interesting technologies.
+Hi there, I am Fulong Li. Welcome to my personal website. I currently build this site for sharing some interesting technologies.
 
 Research Interests
 ======
