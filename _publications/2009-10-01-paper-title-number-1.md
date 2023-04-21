@@ -1,45 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Journal Paper"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-Journal Paper
-======
 1. Li, F., Lin, Z., Xu, H., Wang, F.: Comprehensive local control design for eliminating line resistance effect on power sharing degradation in DC microgrids. IET Power Electron. 15, 11– 22 (2022).
 2. F. Li and Z. Lin, "Novel Passive Controller Design for Enhancing Boost Converter Stability in DC Microgrid Applications," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 6, pp. 6901-6911, Dec. 2021.
 3. F. Li, Z. Lin, Z. Qian, J. Wu and W. Jiang, "A Dual-Window DC Bus Interacting Method for DC Microgrids Hierarchical Control Scheme," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 652-661, April 2020.
 4. M. Alshareef, Z. Lin, F. Li and F. Wang, "A grid interface current control strategy for DC microgrids," in CES Transactions on Electrical Machines and Systems, vol. 5, no. 3, pp. 249-256, Sept. 2021.
 
-Conference Paper
-======
-1. W. Shang, R. Wang, Z. Lin, F. Li and J. Wu, "An Integrated Communication Method for LED Intelligent Dimming System with Switching Ripple Communication," 2021 IEEE 1st International Power Electronics and Application Symposium (PEAS), 2021, pp. 1-8.
-
-2. F. Li, H. Xu and Z. Lin, "Reconstructed Droop Control for Peer Current Sharing of Battery Storage in DC Microgrids," 2021 IEEE fourth International Conference on DC Microgrids (ICDCM), Virtual Conference, 2021. 
-
-3. F. Li, C. A. Cañizares, Z. Lin, "Energy Management System for DC Microgrids Considering Battery Degradation", IEEE PES General Meeting, Montreal, Canada, 2020.
-
-4. F. Li, H. Xu and Z. Lin, "Multifunctional Control Design for Modular Plug-and-play Battery Storage in DC Microgrids," 2020 IEEE 29th International Symposium on Industrial Electronics (ISIE), Delft, Netherlands, 2020, pp. 1147-1152.
-
-5. F. Li, Z. Lin, J. Wu and W. Li, "Virtual Negative Cable Resistance for Power Sharing Accuracy Enhancement in DC Microgrids," 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), Vancouver, BC, Canada, 2019, pp. 2539-2544.
-
-6. F. Li, Z. Lin, J. Wu and A. Chen, "Terminal Capacitor Compensation Based Stability Design for DC Microgrids," 2019 IEEE Third International Conference on DC Microgrids (ICDCM), Matsue, 2019.
-
-7. F. Li, Z. Lin, W. Cao, A. Chen and J. Wu, "A Low-pass Filter Method to Suppress the Voltage Variations Caused by Introducing Droop Control in DC Microgrids," 2018 IEEE Energy Conversion Congress and Exposition (ECCE), Portland, OR, 2018, pp. 1151-1155.
-
-8. F. Li, Z. Lin, Z. Qian and J. Wu, "Active DC bus signaling control method for coordinating multiple energy storage devices in DC microgrid," 2017 IEEE Second International Conference on DC Microgrids (ICDCM), Nuremburg, 2017, pp. 221-226.
-
-9. F. Li, M. Alshareef, Z. Lin and W. Jiang, "A modified MPPT algorithm with integrated active power control for PV-battery systems," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 742-746.
-
-10. W. Jiang, J. Lu, F. Li, S. Hashimoto and Z. Lin, "A non-intrusive magnetic energy scavanger for renewable power generation state monitoring," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 562-566.
 
