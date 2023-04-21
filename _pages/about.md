@@ -18,22 +18,22 @@ Skills
 ======
 I am still trying to build this page.
 
-Site-wide configuration
+About
 ------
 I am still trying to build this page.
 
-Create content & metadata
+About
 ------
 I am still trying to build this page.
 
-**Markdown generator**
+**Aboutr**
 
 I am still trying to build this page.
 
-How to edit your site's GitHub repository
+About
 ------
 I am still trying to build this page.
 
-For more info
+About
 ------
 I am still trying to build this page.
