@@ -6,7 +6,7 @@ Journal Paper
 3. F. Li, Z. Lin, Z. Qian, J. Wu and W. Jiang, "A Dual-Window DC Bus Interacting Method for DC Microgrids Hierarchical Control Scheme," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 652-661, April 2020.
 4. M. Alshareef, Z. Lin, F. Li and F. Wang, "A grid interface current control strategy for DC microgrids," in CES Transactions on Electrical Machines and Systems, vol. 5, no. 3, pp. 249-256, Sept. 2021.
 
-
+---
 Conference Paper
 ======
 1. W. Shang, R. Wang, Z. Lin, F. Li and J. Wu, "An Integrated Communication Method for LED Intelligent Dimming System with Switching Ripple Communication," 2021 IEEE 1st International Power Electronics and Application Symposium (PEAS), 2021, pp. 1-8.
