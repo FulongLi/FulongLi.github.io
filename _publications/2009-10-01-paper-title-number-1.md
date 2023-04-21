@@ -2,11 +2,9 @@
 title: "Journal Paper"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 1. Li, F., Lin, Z., Xu, H., Wang, F.: Comprehensive local control design for eliminating line resistance effect on power sharing degradation in DC microgrids. IET Power Electron. 15, 11– 22 (2022).
 2. F. Li and Z. Lin, "Novel Passive Controller Design for Enhancing Boost Converter Stability in DC Microgrid Applications," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 6, pp. 6901-6911, Dec. 2021.
