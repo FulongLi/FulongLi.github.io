@@ -1,3 +1,4 @@
+---
 Journal Paper
 ======
 1. Li, F., Lin, Z., Xu, H., Wang, F.: Comprehensive local control design for eliminating line resistance effect on power sharing degradation in DC microgrids. IET Power Electron. 15, 11– 22 (2022).
@@ -27,3 +28,4 @@ Conference Paper
 9. F. Li, M. Alshareef, Z. Lin and W. Jiang, "A modified MPPT algorithm with integrated active power control for PV-battery systems," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 742-746.
 
 10. W. Jiang, J. Lu, F. Li, S. Hashimoto and Z. Lin, "A non-intrusive magnetic energy scavanger for renewable power generation state monitoring," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 562-566.
+---
