@@ -1,15 +1,15 @@
 # main links links
 main:
-   - title: "blogs"
+  - title: "blogs"
     url: /blogs/     
     
-   - title: "Experience"
+  - title: "Experience"
     url: /experience/    
     
   - title: "Awards"
     url: /awards/     
     
-   - title: "PE Projects"
+  - title: "PE Projects"
     url: /peprojects/   
     
   - title: "Publications"
@@ -20,4 +20,4 @@ main:
     
   - title: "CV"
     url: /cv/
-  
+
