@@ -1,20 +1,17 @@
 # main links links
 main:
-   - title: "Research"
-    url: /research/      
+   - title: "Posts"
+    url: /posts/     
+    
+   - title: "Experience"
+    url: /experience/    
     
   - title: "Publications"
     url: /publications/
- 
-  - title: "Experience"
-    url: /experience/    
-    
+  
   - title: "Awards"
     url: /awards/   
-    
-   - title: "Blogs"
-    url: /blogs/     
-    
+   
   - title: "Novels"
     url: /novels/
     
