@@ -6,18 +6,18 @@ permalink: /publications/
 ---
 
 Journal Paper
-======
+---
 1.	Li, F., Lin, Z., Xu, H., Wang, F.: Comprehensive local control design for eliminating line resistance effect on power sharing degradation in DC microgrids. IET Power Electron. 15, 11– 22, 2022.
 2.	F. Li and Z. Lin, "Novel Passive Controller Design for Enhancing Boost Converter Stability in DC Microgrid Applications," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 6, pp. 6901-6911, Dec. 2021.
 3.	M. Alshareef, Z. Lin, F. Li and F. Wang, "A grid interface current control strategy for DC microgrids," in CES Transactions on Electrical Machines and Systems, vol. 5, no. 3, pp. 249-256, Sept. 2021.j
 4.	F. Li, Z. Lin, Z. Qian, J. Wu and W. Jiang, "[A Dual-Window DC Bus Interacting Method for DC Microgrids Hierarchical Control Scheme](https://ieeexplore.ieee.org/document/8645723)," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 652-661, April 2020.
  
 Books and Book Chapter
-======
+---
 1.	Zhengyu Lin, Fulong Li, Fei Wang, ''DC networks'', Reference Module in Materials Science and Materials Engineering, Elsevier, 2022.
 
 Conference Paper
-======
+---
 1.	F. Li, Z. Lin, H. Xu and R. Wang, " Review of DC Bus Signalling Control Methods in DC Microgrids," 2022 IEEE International Power Electronics and Application Conference and Exposition (IEEE PEAC 2022), 2022.  
 2.	W. Shang, R. Wang, Z. Lin, F. Li and J. Wu, "An Integrated Communication Method for LED Intelligent Dimming System with Switching Ripple Communication," 2021 IEEE 1st International Power Electronics and Application Symposium (PEAS), 2021, pp. 1-8.
 3.	F. Li, H. Xu and Z. Lin, "Reconstructed Droop Control for Peer Current Sharing of Battery Storage in DC Microgrids," 2021 IEEE Fourth International Conference on DC Microgrids (ICDCM), 2021, pp. 1-5.
