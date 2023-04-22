@@ -7,7 +7,7 @@ title: "Awards"
 
 •	Best Paper Award of PEAC 2022, Guangzhou, China.
 
-•	IEEE SYPA Winner (Best Paper), ISIE 2019, Vancouver, Canada.
+•	[IEEE SYPA Winner (Best Paper), ISIE 2019, Vancouver, Canada.](/ISIE 2019)
 
 •	IEEE Student Travel Grant Winner, ICDCM 2019, Matsue, Japan.
 
