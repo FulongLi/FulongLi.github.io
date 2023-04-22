@@ -1,6 +1,6 @@
 ---
 
-permalink: /Novels/
+permalink: /novels/
 title: "Novels"
 
 ---
