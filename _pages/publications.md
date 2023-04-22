@@ -1,18 +1,20 @@
 ---
-layout: archive
+
 title: "Publications"
 permalink: /publications/
-author_profile: true
 
 ---
 
+Journal Paper
+======
 
 1. Li, F., Lin, Z., Xu, H., Wang, F.: Comprehensive local control design for eliminating line resistance effect on power sharing degradation in DC microgrids. IET Power Electron. 15, 11– 22 (2022).
 2. F. Li and Z. Lin, "Novel Passive Controller Design for Enhancing Boost Converter Stability in DC Microgrid Applications," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 6, pp. 6901-6911, Dec. 2021.
 3. F. Li, Z. Lin, Z. Qian, J. Wu and W. Jiang, "A Dual-Window DC Bus Interacting Method for DC Microgrids Hierarchical Control Scheme," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 652-661, April 2020.
 4. M. Alshareef, Z. Lin, F. Li and F. Wang, "A grid interface current control strategy for DC microgrids," in CES Transactions on Electrical Machines and Systems, vol. 5, no. 3, pp. 249-256, Sept. 2021.
 
-
+Conference Paper
+======
 1. W. Shang, R. Wang, Z. Lin, F. Li and J. Wu, "An Integrated Communication Method for LED Intelligent Dimming System with Switching Ripple Communication," 2021 IEEE 1st International Power Electronics and Application Symposium (PEAS), 2021, pp. 1-8.
 2. F. Li, H. Xu and Z. Lin, "Reconstructed Droop Control for Peer Current Sharing of Battery Storage in DC Microgrids," 2021 IEEE fourth International Conference on DC Microgrids (ICDCM), Virtual Conference, 2021. 
 3. F. Li, C. A. Cañizares, Z. Lin, "Energy Management System for DC Microgrids Considering Battery Degradation", IEEE PES General Meeting, Montreal, Canada, 2020.
@@ -25,14 +27,3 @@ author_profile: true
 10. W. Jiang, J. Lu, F. Li, S. Hashimoto and Z. Lin, "A non-intrusive magnetic energy scavanger for renewable power generation state monitoring," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 562-566.
 
 
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
