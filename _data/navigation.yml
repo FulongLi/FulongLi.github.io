@@ -1,20 +1,21 @@
 # main links links
 main:
-  - title: "Blogs"
-    url: /blogs/
     
+   - title: "Research"
+    url: /Research/      
+    
+  - title: "Publications"
+    url: /publications/
+ 
   - title: "Experience"
     url: /experience/    
     
   - title: "Awards"
     url: /awards/   
     
-  - title: "PE Projects"
-    url: /peprojects/      
+   - title: "Posts"
+    url: /posts/     
     
-  - title: "Publications"
-    url: /publications/
-         
   - title: "Novels"
     url: /novels/
     
