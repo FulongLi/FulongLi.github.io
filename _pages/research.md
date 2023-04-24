@@ -12,7 +12,7 @@ Microgrid is my life:
 1. Swtiching Devices (SiC, GaN)
 2. Passive Componets
 3. Sensing Devices 
-4. [Converters](/research/converters)
+4. [Converters](converters)
 5. Control Strategies of Microgrids
 6. Energy Mangement System (EMS) Design
 
