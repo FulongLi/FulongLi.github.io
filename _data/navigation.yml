@@ -4,13 +4,7 @@ main:
     url: /year-archive/     
     
   - title: "Research"
-    url: /research/    
-    
-  - title: "Awards"
-    url: /awards/     
-    
-  - title: "PE Projects"
-    url: /peprojects/   
+    url: /research/  
     
   - title: "Publications"
     url: /publications/
