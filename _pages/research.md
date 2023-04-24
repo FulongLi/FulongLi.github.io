@@ -6,7 +6,6 @@ author_profile: true
 
 ---
 
-My
 
 Microgrid is my life:
 ---
@@ -17,14 +16,5 @@ Microgrid is my life:
 5. Control Strategies of Microgrids
 6. Energy Mangement System (EMS) Design
 
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
 
 
