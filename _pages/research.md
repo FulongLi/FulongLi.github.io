@@ -3,14 +3,14 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
+<!-- header:
+  og_image: "research/ecdf.png" -->
 ---
 
 My academic research falls into two main areas: 
 
 
-<nbsp>
+<!-- <nbsp>
 
 {% include base_path %}
 
@@ -18,4 +18,4 @@ My academic research falls into two main areas:
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
