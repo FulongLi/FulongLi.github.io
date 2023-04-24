@@ -18,7 +18,6 @@ Microgrid is my life:
 5. Control Strategies of Microgrids
 6. Energy Mangement System (EMS) Design
 
-
 <nbsp>
 
 {% include base_path %}
