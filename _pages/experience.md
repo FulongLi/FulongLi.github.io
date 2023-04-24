@@ -1,7 +1,0 @@
----
-
-permalink: /experience/
-title: "Experience"
-
----
-
