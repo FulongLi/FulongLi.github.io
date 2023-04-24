@@ -8,9 +8,9 @@ author_profile: true
 
 Microgrid is my life:
 ---
-Swtiching Devices (SiC, GaN)
-Passive Componets
-Sensing Devices
-Converters
-Control Strategies of Microgrids
-Energy Mangement System (EMS) Design
+1. Swtiching Devices (SiC, GaN)
+2. Passive Componets
+3. Sensing Devices
+4. Converters
+5. Control Strategies of Microgrids
+6. Energy Mangement System (EMS) Design
