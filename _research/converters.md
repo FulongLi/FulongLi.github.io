@@ -1,5 +1,5 @@
 ---
-permalink: /Converters/
+permalink: /converters/
 title: "Converters"
 ---
 
