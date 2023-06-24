@@ -29,3 +29,9 @@ Conference Paper
 9.	F. Li, Z. Lin, Z. Qian and J. Wu, "[Active DC bus signaling control method for coordinating multiple energy storage devices in DC microgrid](https://ieeexplore.ieee.org/document/8001048)," 2017 IEEE Second International Conference on DC Microgrids (ICDCM), Nuremburg, 2017, pp. 221-226.
 10.	F. Li, M. Alshareef, Z. Lin and W. Jiang, "[A modified MPPT algorithm with integrated active power control for PV-battery systems](https://ieeexplore.ieee.org/document/7884432)," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 742-746.
 11.	W. Jiang, J. Lu, F. Li, S. Hashimoto and Z. Lin, "[A non-intrusive magnetic energy scavanger for renewable power generation state monitoring](https://ieeexplore.ieee.org/document/7884397)," 2016 IEEE International Conference on Renewable Energy Research and Applications (ICRERA), Birmingham, 2016, pp. 562-566.
+
+
+PhD Thesis
+---
+Control Strategies for Low Voltage DC Microgrids
+  
