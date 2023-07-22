@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Fulong Li"
   avatar           : "Fulong.jfif"
-  bio              : "Ph.D., IEEE Member, Engineer in Power Electronics."
+  bio              : "Ph.D., IEEE Member, Researcher and Engineer in Power Electronics."
   location         : "Cardiff, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -106,7 +106,7 @@ author:
   orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-9972-7258"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
