@@ -7,15 +7,17 @@ title: "Novels"
 
 The Dark Side of the Moon
 ---
-Chapter 1: The Door
-
-Chapter 2: The Path
+you may read this one here...
 
  The Cruise
  ---
+ 
+you may read this one here...
 
  The Maze
  ---
+ you may read this one here...
  
  The Mysterious Cat
  ---
+you may read this one here...
