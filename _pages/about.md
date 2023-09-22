@@ -11,8 +11,8 @@ redirect_from:
 Hi there, I am Fulong Li. Welcome to my personal website. I am currently building this site to share some exciting technologies.
 
 
-about me 
----
+About me 
+-
 
 Fulong Li (Member, IEEE) received his B.S. degree in electrical engineering from Yangzhou University, Yangzhou, China, in 2015, and his Ph.D. degree from Aston University, Birmingham, U.K., in 2019. He is currently a power electronics engineer at CSA Catapult. Prior to joining CSA Catapult, he worked as a Research Associate at Loughborough University, Loughborough, U.K. 
 
