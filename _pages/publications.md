@@ -33,5 +33,5 @@ Conference Paper
 
 PhD Thesis
 ---
-Control Strategies for Low Voltage DC Microgrids
+[Control Strategies for Low Voltage DC Microgrids](https://publications.aston.ac.uk/id/eprint/46135/)
   
