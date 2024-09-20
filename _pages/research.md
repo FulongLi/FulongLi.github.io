@@ -6,9 +6,13 @@ author_profile: true
 
 ---
 
-Microgrid is my life:
+Road Map for Overall Research:
 ---
-1. Switching Devices (SiC, GaN)
+
+
+Topics:
+---
+1. Switching Devices (IGBT, SiC/GaN MOSFET)
 2. Passive Components
 3. Sensing Devices
 4. Converters
