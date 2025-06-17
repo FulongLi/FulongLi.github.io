@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Full CV (HTML)"
+permalink: /cv/cv_html/
 author_profile: true
 ---
+
 
 ## 🧑‍ Dr. Fulong Li, Ph.D., IEEE Member
 
