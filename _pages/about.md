@@ -1,19 +1,68 @@
----
-permalink: /
-title: "About this website"
-excerpt: "About this website"
+------
+layout: single
+title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Hi there, I am Fulong. Welcome to my website.
+## 👋 About Me
+
+I’m **Dr. Fulong Li**, a Power Electronics Engineer and Researcher currently working in the UK. 
+I hold a Ph.D. in Electrical Engineering from Aston University, and I’m an IEEE Member with deep expertise in advanced converter design, control strategies, and energy systems integration.
+
+---
+
+## 💼 Professional Focus
+
+My work spans across:
+- AI-assisted optimal design of power electronic converters (LLC, DAB, Buck/Boost)
+- Characterisation and thermal modelling of wide-bandgap semiconductors (SiC/GaN)
+- Control and stability of DC microgrids
+- Real-time energy management system (EMS) design
+
+---
+
+## 🔬 Research Vision
+
+I’m passionate about combining **power electronics**, **intelligent optimisation**, and **energy systems** to build more sustainable, efficient, and intelligent electrical infrastructures. My research contributions include:
+- Developing high-performance converter prototypes
+- Innovating control algorithms for distributed energy systems
+- Publishing journal and conference papers in IEEE/IET
+
+---
+
+## 🌍 Global Experience
+
+I've had the privilege to work and collaborate across multiple countries and institutions, including:
+- 🇬🇧 UK (Aston University, Loughborough University, Cardiff University)
+- 🇨🇦 University of Waterloo
+- 🇨🇳 Zhejiang University
+- 🇳🇱 DC Systems BV; TU Delft
+
+---
+
+## 🎤 Community & Leadership
+
+As a technical committee member, guest editor, and frequent reviewer for IEEE conferences and journals, I stay active in the academic and professional community. I’ve also delivered invited talks on DC microgrids, EMS, and converter control strategies.
+
+---
+
+## ✨ Beyond Work
+
+Outside of engineering, I enjoy creative writing and have drafted several science-fiction novels. I’m fascinated by the intersection of technology, storytelling, and society.
+
+---
+
+📫 **Feel free to reach out** via [email](mailto:fulong.li@ieee.org) or connect with me on [LinkedIn](https://www.linkedin.com/in/fulong-li-6bb443127/).
 
 
-About me 
--
 
-Fulong Li (Member, IEEE) received his B.S. degree in electrical engineering from Yangzhou University, Yangzhou, China, in 2015, and his Ph.D. degree from Aston University, Birmingham, U.K., in 2019. He is currently a power electronics engineer at CSA Catapult. Prior to joining CSA Catapult, he worked as a Research Associate at Loughborough University, Loughborough, U.K. 
+[//]: # (About me )
 
-His research interests and expertise include SiC/GaN switching device characterization and reliability testing; the design, control and stability analysis of power electronics converters, and their applications in DC microgrids, and the design of energy management systems (EMS) for microgrids, such as optimal power flow control for PV, battery, fuel cell, etc.
+[//]: # (-)
+
+[//]: # ()
+[//]: # (Fulong Li &#40;Member, IEEE&#41; received his B.S. degree in electrical engineering from Yangzhou University, Yangzhou, China, in 2015, and his Ph.D. degree from Aston University, Birmingham, U.K., in 2019. He is currently a power electronics engineer at CSA Catapult. Prior to joining CSA Catapult, he worked as a Research Associate at Loughborough University, Loughborough, U.K. )
+
+[//]: # ()
+[//]: # (His research interests and expertise include SiC/GaN switching device characterization and reliability testing; the design, control and stability analysis of power electronics converters, and their applications in DC microgrids, and the design of energy management systems &#40;EMS&#41; for microgrids, such as optimal power flow control for PV, battery, fuel cell, etc.)
