@@ -9,6 +9,9 @@ author_profile: true
 
 **Email:** [fulong.li@ieee.org](mailto:fulong.li@ieee.org)  
 
+---
+
+🔄 Last updated: June 2024
 
 ---
 
@@ -28,27 +31,6 @@ author_profile: true
 - Hierarchical control strategies
 - Energy management systems
 - Adaptive PV control, power scheduling
-
----
-
-## 🛠 Skills
-
-### Technical Tools
-- **Modelling & Simulation:** SPICE, MATLAB, ANSYS, COMSOL, PLECS, PSIM, SIMetrix, SaberRD
-- **Optimisation:** GAMS, Yalmip  
-- **PCB & Mechanical Design:** Altium, SolidWorks, DesignSpark PCB, 3D Printing  
-- **Programming:** C, C++, Python  
-- **Microcontrollers:** DSP, analog circuit implementation  
-- **Testing & Implementation:** Soldering, debugging, measurement systems
-
-### Transferable Skills
-- Self-motivated and independent researcher
-- Excellent communication (verbal and written)
-- Leadership and teamwork in international contexts
-
-### Languages
-- Chinese (Native)
-- English (Full Professional Proficiency)
 
 ---
 
