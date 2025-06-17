@@ -1,28 +1,21 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About this website"
+excerpt: "About this website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Hi there, I am Fulong. Welcome to my website.
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+I created this website because I recently realized that my memory is gradually declining with age. Therefore, I want to document insights and experiences from my research, while sharing some cutting-edge tech documents that might be helpful to others. Especially in the field of power electronics, if you come across challenging issues and find useful materials on the website, please remember to cite them. The website serves not only as a platform for sharing with others but also as a convenient way for me to organize records, avoiding the hassle of searching through cluttered folders on my computer.
+
+
+About me 
+-
+
+Fulong Li (Member, IEEE) received his B.S. degree in electrical engineering from Yangzhou University, Yangzhou, China, in 2015, and his Ph.D. degree from Aston University, Birmingham, U.K., in 2019. He is currently a power electronics engineer at CSA Catapult. Prior to joining CSA Catapult, he worked as a Research Associate at Loughborough University, Loughborough, U.K. 
+
+His research interests and expertise include SiC/GaN switching device characterization and reliability testing; the design, control and stability analysis of power electronics converters, and their applications in DC microgrids, and the design of energy management systems (EMS) for microgrids, such as optimal power flow control for PV, battery, fuel cell, etc.
