@@ -10,8 +10,6 @@ redirect_from:
 
 Hi there, I am Fulong. Welcome to my website.
 
-I created this website because I recently realized that my memory is gradually declining with age. Therefore, I want to document insights and experiences from my research, while sharing some cutting-edge tech documents that might be helpful to others. Especially in the field of power electronics, if you come across challenging issues and find useful materials on the website, please remember to cite them. The website serves not only as a platform for sharing with others but also as a convenient way for me to organize records, avoiding the hassle of searching through cluttered folders on my computer.
-
 
 About me 
 -
