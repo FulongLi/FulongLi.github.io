@@ -46,4 +46,4 @@ Switching devices are the foundation of modern power electronics. Key technologi
 You can include an image:
 
 ```markdown
-![Double Pulse Test Setup](/assets/images/dpt_setup.jpg)
+![Double Pulse Test Setup](/images/research/dpt_setup.jpg)
