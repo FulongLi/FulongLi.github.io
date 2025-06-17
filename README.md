@@ -14,10 +14,10 @@ This is the source code for [Fulong Li's](https://fulongli.github.io) personal a
 
 The site is organised into the following main sections:
 
-- 🕒 **[Timeline](/timeline/)**  
+- 🕒 **Timeline**  
   A chronological view of academic, professional, and research milestones.
 
-- 📚 **[Research](/research/)**  
+- 📚 **Research**  
   Detailed breakdown of technical research areas including:
   - Switching Devices (IGBT, SiC, GaN)
   - Passive Components
@@ -26,13 +26,13 @@ The site is organised into the following main sections:
   - Microgrid Control Strategies
   - etc.
 
-- 📝 **[Publications](/publications/)**  
+- 📝 **Publications**  
   A list of journal articles, conference papers, etc.
 
-- 📖 **[Novels](/novels/)**  
+- 📖 **Novels**  
   A space dedicated to creative and science-fiction writing projects.
 
-- 📄 **[CV](/cv/)**  
+- 📄 **CV**  
   Curriculum Vitae highlighting academic background, work experience, and achievements.
 
 ---
