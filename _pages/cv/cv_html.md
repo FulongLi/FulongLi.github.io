@@ -1,10 +1,15 @@
 ---
 layout: single
-title: "Full CV (HTML)"
+title: "CV"
 permalink: /cv/cv_html/
 author_profile: true
 ---
 
+---
+
+🔄 Last updated: June 2024
+
+---
 
 ## 🧑‍ Dr. Fulong Li, Ph.D., IEEE Member
 
@@ -12,9 +17,6 @@ author_profile: true
 
 ---
 
-🔄 Last updated: June 2024
-
----
 
 ## 🎯 Research Interests
 

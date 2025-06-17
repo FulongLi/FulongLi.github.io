@@ -9,5 +9,5 @@ author_profile: true
 
 Welcome to my professional CV page.
 
-- 🔎 You can **view my CV in HTML format** [here](/cv/cv_html).
+- 🔎 You can **view my CV ** [here](/cv/cv_html).
 - 📥 You can **view and download a PDF copy** of my CV [here](/files/FulongCV.pdf).

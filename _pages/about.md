@@ -27,7 +27,7 @@ My work spans across:
 
 ## 🔬 Research Vision
 
-I’m passionate about combining **power electronics**, **intelligent optimisation**, and **energy systems** to build more sustainable, efficient, and intelligent electrical infrastructures. My research contributions include:
+I’m passionate about combining **power electronics**, **AI-assisted optimisation**, and **energy systems** to build more sustainable, efficient, and intelligent electrical infrastructures. My research contributions include:
 - Developing high-performance converter prototypes
 - Innovating control algorithms for distributed energy systems
 - Publishing journal and conference papers in IEEE/IET
@@ -41,12 +41,6 @@ I've had the privilege to work and collaborate across multiple countries and ins
 - 🇨🇦 University of Waterloo
 - 🇨🇳 Zhejiang University
 - 🇳🇱 DC Systems BV, TU Delft
-
----
-
-## 🎤 Community & Leadership
-
-As a technical committee member, guest editor, and frequent reviewer for IEEE conferences and journals, I stay active in the academic and professional community. I’ve also delivered invited talks on DC microgrids, EMS, and converter control strategies.
 
 ---
 
