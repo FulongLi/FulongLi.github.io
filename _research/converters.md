@@ -1,6 +1,5 @@
 ---
-
-permalink: /converters/
+permalink: /research/converters/
 title: "Converters"
 
 ---
