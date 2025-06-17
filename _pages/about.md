@@ -1,8 +1,11 @@
-------
-layout: single
-title: "About Me"
-permalink: /about/
+---
+permalink: /
+title: "About this website"
+excerpt: "About this website"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## 👋 About Me
@@ -15,7 +18,7 @@ I hold a Ph.D. in Electrical Engineering from Aston University, and I’m an IEE
 ## 💼 Professional Focus
 
 My work spans across:
-- AI-assisted optimal design of power electronic converters (LLC, DAB, Buck/Boost)
+- AI-assisted optimal design of power electronic converters (DAB, Buck/Boost)
 - Characterisation and thermal modelling of wide-bandgap semiconductors (SiC/GaN)
 - Control and stability of DC microgrids
 - Real-time energy management system (EMS) design
@@ -37,7 +40,7 @@ I've had the privilege to work and collaborate across multiple countries and ins
 - 🇬🇧 UK (Aston University, Loughborough University, Cardiff University)
 - 🇨🇦 University of Waterloo
 - 🇨🇳 Zhejiang University
-- 🇳🇱 DC Systems BV; TU Delft
+- 🇳🇱 DC Systems BV, TU Delft
 
 ---
 
@@ -57,6 +60,7 @@ Outside of engineering, I enjoy creative writing and have drafted several scienc
 
 
 
+[//]: # ()
 [//]: # (About me )
 
 [//]: # (-)
