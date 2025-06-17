@@ -1,10 +1,30 @@
 ---
 layout: single
-title: "Switching Devices (IGBT, SiC/GaN MOSFET)"
-# The permalink can be anything you like; below is just an example
+title: "Energy Management System (EMS) Design"
 permalink: /research/ems/
 author_profile: true
 ---
 
-# EMS
-This is where you put your detailed information on IGBTs, SiC/GaN MOSFETs, etc.
+## 🌍 Overview
+
+This section focuses on energy management algorithms for optimal dispatch in smart grids and microgrids, with objectives such as:
+
+- Cost minimisation
+- Renewable energy integration
+- Battery lifetime extension
+
+---
+
+## 📊 Focus Areas
+
+### 1. Rule-Based and Fuzzy EMS
+- Logic tree methods
+- Integration of expert knowledge
+
+### 2. Optimisation-Based EMS
+- MILP, MPC, and genetic algorithms
+- Forecasting integration
+
+### 3. Real-Time Implementation
+- Embedded controller constraints
+- Communication protocols and data flow
