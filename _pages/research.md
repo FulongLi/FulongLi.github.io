@@ -7,15 +7,45 @@ author_profile: true
 
 ## 🧭 Roadmap for Research
 
-A structured overview of ongoing and past research areas.
+This page outlines the hierarchical structure of my research themes, following the flow from **Microgrids** down to **Power Components**.
 
 ---
 
-### 📚 Topics
+## 📚 Research Topics
 
-1. [Switching Devices (IGBT, SiC/GaN MOSFET)](/research/switching_devices/)
-2. [Passive Components](/research/passive_components/)
-3. [Sensing Devices](/research/sensing_devices/)
-4. [Converters](/research/converters/)
-5. [Control Strategies of Microgrids](/research/control_strategies/)
-6. [Energy Management System (EMS) Design](/research/ems/)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2rem; text-align: center;">
+
+<!-- Microgrids Column -->
+<div style="flex: 1; min-width: 280px;">
+  <img src="/images/research/microgrids.png" alt="Microgrids" style="width:100%; max-width:240px; border:1px solid #ccc; border-radius:6px;">
+  <h3>🔌 Microgrids</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="/research/control_strategies/">DC Microgrids (DCMG)</a></li>
+    <li><a href="/research/control_strategies/">AC Microgrids (ACMG)</a></li>
+    <li><a href="/research/control_strategies/">Microgrid Topologies</a></li>
+  </ul>
+</div>
+
+<!-- Converters Column -->
+<div style="flex: 1; min-width: 280px;">
+  <img src="/images/research/converter.png" alt="Converters" style="width:100%; max-width:240px; border:1px solid #ccc; border-radius:6px;">
+  <h3>⚙️ Converters</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="/research/converters/">Non-isolated Converter</a></li>
+    <li><a href="/research/converters/">Isolated Converter</a></li>
+  </ul>
+</div>
+
+<!-- Components Column -->
+<div style="flex: 1; min-width: 280px;">
+  <img src="/images/research/components.png" alt="Components" style="width:100%; max-width:240px; border:1px solid #ccc; border-radius:6px;">
+  <h3>🔩 Components</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="/research/switching_devices/">Switching Devices (IGBT, SiC, GaN)</a></li>
+    <li><a href="/research/passive_components/">Passive Components (Magnetics)</a></li>
+    <li><a href="/research/sensing_devices/">Sensing Devices</a></li>
+  </ul>
+</div>
+
+</div>
+
