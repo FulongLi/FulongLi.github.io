@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Control Strategies of Microgrids"
+title: "Control Strategies of DC Microgrids"
 permalink: /research/control_strategies/
 author_profile: true
 ---
